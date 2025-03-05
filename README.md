@@ -18,6 +18,6 @@ elif operator == "/":
     if num2 != 0:  
         print(f"Result: {num1 / num2}")  
     else:  
-        print("Error! Division by zero is not allowed.")  
+        print("Error! Division by zero isn't allowed.")  
 else:  
     print("Invalid operator!")
