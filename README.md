@@ -1,6 +1,6 @@
 # Simple Calculator 🧮  
 
-This repository contains a basic calculator that performs addition, subtraction, multiplication, and division.  
+This repository has a basic calculator that performs addition, subtraction, multiplication, and division.  
 
 ## Code in This Repo  
 ```python
