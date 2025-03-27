@@ -4,7 +4,7 @@ This repository has a basic calculator that performs addition, subtraction, mult
 
 ## Code in This Repo  
 ```python
-num1 = float(input("Enter your first number below: "))  
+num1 = float(input("Enter THE first number below: "))  
 operator = input("Enter an operator (+, -, *, /): ")  
 num2 = float(input("Enter second number: "))  
 
